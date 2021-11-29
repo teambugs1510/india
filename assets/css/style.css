@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Inter:400,500');
 
 :root {
-    --dblue: #00324d;
-    --lblue: #0a90cd;
-    --gtxt: #5c5c5c;
-    --bggray:#E1E1E1;
+    --dblue: #00324d!important;
+    --lblue: #0a90cd!important;
+    --gtxt: #5c5c5c!important;
+    --bggray:#E1E1E1!important;
 }
 
 * {
