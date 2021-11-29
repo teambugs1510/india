@@ -345,6 +345,11 @@ span {
     height: 300px;
     width: 450px;
     box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    overflow: hidden;
+}
+.cpvideobox iframe{
+    width: inherit;
+    height: inherit;
 }
 .cpvideobox h2{
     color: var(--dblue);
