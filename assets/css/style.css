@@ -591,6 +591,7 @@ height: 25px;
   
     .blogtitle{
         font-size: 12px;
+        line-height:normal;
     }
     .blogpara {
         font-size: 9px;
