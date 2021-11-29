@@ -590,10 +590,10 @@ height: 25px;
     } 
   
     .blogtitle{
-        font-size: 14px;
+        font-size: 12px;
     }
     .blogpara {
-        font-size: 10px;
+        font-size: 9px;
         color: var(--gtxt);
         margin-bottom: 5px;
         /* max-width: 250px; */
