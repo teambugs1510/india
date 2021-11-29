@@ -554,6 +554,9 @@ height: 25px;
     .apltxtinpara{
         font-size: 14px;
     }
+    .blogcontentbox {
+        padding: 10px 10px 10px 0px;
+    }
 }
 
 @media (max-width: 768px) {
