@@ -557,6 +557,9 @@ height: 25px;
     .blogcontentbox {
         padding: 10px 10px 10px 0px;
     }
+    .blogtitle{
+    line-height:normal;
+    }
 }
 
 @media (max-width: 768px) {
