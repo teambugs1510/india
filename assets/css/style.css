@@ -4,7 +4,7 @@
     --dblue: #00324d!important;
     --lblue: #0a90cd!important;
     --gtxt: #5c5c5c!important;
-    --bggray:#E1E1E1!important;
+    --bggray:#FAFAFA!important;
 }
 
 * {
@@ -61,7 +61,7 @@ span {
     padding: 60px 0px !important;
 }
 .bggray {
-    background-color: #E1E1E1;
+    background-color: var(--bggray);
 }
 .darkblue {
     color: #00324d;
