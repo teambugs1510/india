@@ -755,6 +755,10 @@ span {
         height: auto;
         margin-top: 60px;
     }
+       .ulinicon  {
+        justify-content: center!important;
+        
+    }
 }
 @media (max-width: 425px) {
 
@@ -763,7 +767,7 @@ span {
     }
     .ulinicon  {
         justify-content: center!important;
-        display: flex;
+  
     }
 
     .owl-carousel-2 .owl-prev {
