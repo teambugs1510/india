@@ -746,7 +746,12 @@ span {
         font-size: 26px;
     }
 }
-
+@media(max-width:767px){
+    .fullbanner {
+        height: auto;
+        margin-top: 60px;
+    }
+}
 @media (max-width: 425px) {
 
     .sformbox .sform input {
