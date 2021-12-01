@@ -253,6 +253,7 @@ span {
 .blogimg img {
     width: inherit;
     height: 100%;
+    border-radius: 5px;
 }
 
 .blogcontentbox {
