@@ -462,7 +462,7 @@ span {
 }
 
 .gt_list li {
-    color: var(--dblue);
+    color: var(--dblue)!important;
     font-weight: 500;
     font-size: 16px;
     margin: 5px 0;
